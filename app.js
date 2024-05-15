@@ -7,9 +7,7 @@
 </head>
 <body>
     
-    <script src="./app.js">
-
-    </script>
-   <h1>hhhhhhhhhhhhhhhhhhhhhhutrss</h1>
+    
+    <h1>hhhhhhhhhhhhhhhhhhhhhhhhhhh</h1>
 </body>
 </html>
